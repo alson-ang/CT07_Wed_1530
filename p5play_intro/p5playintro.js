@@ -3,9 +3,8 @@ function setup() {
   new Canvas(800, 400);
   background(250); //background color
 
-  // ball = new Sprite(400, 200, 300, 300);
-
   // Basic shape testing
+
   // write your codes here
   // fill("#fff700")   // Colour in shape
   // stroke("#383838") // Outline
@@ -20,7 +19,7 @@ function setup() {
 
    // Create a bouncing ball sprite
    // write your codes here
-
+    // ball = new Sprite(400, 200, 300, 300);
 }
 
 function draw() {
