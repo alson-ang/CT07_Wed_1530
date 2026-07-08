@@ -6,7 +6,7 @@ function setup(){
 function draw(){
     fill("#03d7fc");
     ellipse(300,150,200,200);
-    fill("#03d7fc");
+    fill("#ed1d1d");
     ellipse(300,200,200,200);
     fill("#03d7fc");
     ellipse(300,250,200,200);
