@@ -10,4 +10,6 @@ function draw(){
     ellipse(300,200,50,50);
     fill("#4efc03");
     ellipse(300,250,50,50);
+
+    let a = 1;
 }
