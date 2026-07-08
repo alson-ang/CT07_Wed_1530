@@ -8,8 +8,9 @@ function setup() {
   // Basic shape testing
   // write your codes here
   fill("#fff700")   // Colour in shape
-  stroke("#383838")
-  strokeWeight(10)
+  stroke("#383838") // Outline
+  strokeWeight(10)    // Outline thickness
+  
 
   // End Basic shape testing
 
