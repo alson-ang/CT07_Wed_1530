@@ -5,9 +5,9 @@ function setup(){
 
 function draw(){
     fill("#fc0000");
-    ellipse(300,150,200,200);
+    ellipse(300,150,50,50);
     fill("#ffcc00");
-    ellipse(300,200,200,200);
+    ellipse(300,200,50,50);
     fill("#4efc03");
-    ellipse(300,250,200,200);
+    ellipse(300,250,50,50);
 }
