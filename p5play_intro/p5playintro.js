@@ -5,6 +5,7 @@ function setup() {
 
   ball = new Sprite();
   ball.x = 0
+  ball.y = 0
 
   // Basic shape testing
   // write your codes here
