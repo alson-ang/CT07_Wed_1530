@@ -3,6 +3,8 @@ function setup(){
     background(220);
 
     let x = 5;
+    let y = 10;
+    
 }
 
 function draw(){
