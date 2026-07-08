@@ -1,14 +1,14 @@
-function setup(){
+function setup() {
     createCanvas(600, 400);
     background(220);
 
     let x = 5;
     let y = 10;
     let total = x + y;
-    console.log("Sum: " + total)
+    
 }
 
-function draw(){
+function draw() {
     fill("#fc0000");
     ellipse(300,150,50,50);
     fill("#ffcc00");
