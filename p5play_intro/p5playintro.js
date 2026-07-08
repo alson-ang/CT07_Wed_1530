@@ -7,9 +7,9 @@ function setup() {
 
   // Basic shape testing
   // write your codes here
-  fill("#fff700")
+  fill("#fff700")   // Colour in shape
   stroke("#383838")
-  
+  strokeWeight(10)
 
   // End Basic shape testing
 
