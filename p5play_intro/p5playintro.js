@@ -11,7 +11,7 @@ function setup() {
   stroke("#383838") // Outline
   strokeWeight(10)    // Outline thickness
 
-  circle
+  circle(400, 200, 100)
 
   // End Basic shape testing
 
