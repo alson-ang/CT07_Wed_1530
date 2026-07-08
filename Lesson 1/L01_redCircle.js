@@ -8,6 +8,7 @@ function setup() {
     
 }
 
+let total = 0
 function draw() {
     fill("#fc0000");
     ellipse(300,150,50,50);
