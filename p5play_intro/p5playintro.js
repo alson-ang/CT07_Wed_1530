@@ -13,7 +13,7 @@ function setup() {
 
   circle(400, 200, 100)     // x, y, diameter
   rect(500, 200, 100, 200)  // x, y, width, height
-  triangle()                // x1, x2
+  triangle()                // x1, y1, x2, y2, x3, y3
 
   // End Basic shape testing
 
