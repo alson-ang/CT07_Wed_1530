@@ -7,7 +7,8 @@ function setup() {
 
   // Basic shape testing
   // write your codes here
-  fill("")
+  fill("#fff700")
+  stroke
 
   // End Basic shape testing
 
