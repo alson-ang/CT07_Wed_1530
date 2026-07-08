@@ -10,7 +10,8 @@ function setup() {
   fill("#fff700")   // Colour in shape
   stroke("#383838") // Outline
   strokeWeight(10)    // Outline thickness
-  
+
+  circle
 
   // End Basic shape testing
 
