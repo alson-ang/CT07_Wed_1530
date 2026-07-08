@@ -12,6 +12,7 @@ function setup() {
   strokeWeight(10)    // Outline thickness
 
   circle(400, 200, 100)
+  React(600, 300, 100, 100)
 
   // End Basic shape testing
 
