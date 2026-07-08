@@ -12,7 +12,7 @@ function setup() {
   strokeWeight(10)    // Outline thickness
 
   circle(400, 200, 100)     // x, y, diameter
-  rect(500, 300, 100, 100)  // x, y, width, height
+  rect(500, 200, 100, 200)  // x, y, width, height
 
   // End Basic shape testing
 
