@@ -13,3 +13,17 @@ Right Click - Place / Interact
 • What happens when you win or lose?
 When you win the credits roll.
 When you lose, you drop the items in your inventory.
+
+Flappy Bird Analysis Worksheet
+What are the
+objects?
+What are the
+player’s
+actions?
+What is the
+goal?
+What causes
+game over?
+How is
+progress
+shown?
