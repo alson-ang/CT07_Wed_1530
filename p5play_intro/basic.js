@@ -40,7 +40,7 @@ function setup() {
   let b = "1";
 
   if (a <= b) {
-    
+    console.log("Test");
   }
 
   // --- Exercise: Display odd numbers backward using while loop ---
