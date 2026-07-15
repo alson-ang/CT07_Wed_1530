@@ -15,11 +15,11 @@ function setup() {
 
   // --- Exercise: Area of Triangle ---
   // write your codes here
-  let base = 10;
-  let height = 5;
-  let area = 0.5 * base * height;
-  console.log("Area: " + area);
-  text("Area: " + area, 400, 200);  // (string, x, y)
+  // let base = 10;
+  // let height = 5;
+  // let area = 0.5 * base * height;
+  // console.log("Area: " + area);
+  // text("Area: " + area, 400, 200);  // (string, x, y)
 
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
