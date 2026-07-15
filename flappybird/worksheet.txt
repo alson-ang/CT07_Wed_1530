@@ -32,10 +32,14 @@ For each phase:
 • Any constraints that we need to add in.
 
 1. Background and Character Setup
+
 Background moving slowly to the left.
 Character is in the middle of the screen.
 
 2. Player Movement & Gravity
+
+
+
 3. Pipes or other Obstacles
 4. Scrolling and Camera Position
 5. Sprite Collision and Game Over
