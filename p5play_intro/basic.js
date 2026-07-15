@@ -32,6 +32,7 @@ function setup() {
     yPos += 20;
   }
   console.log("Sum: " + sum);
+  text("Sum: " + sum, 400, yPos);
 
   // --- Exercise: Age category classification ---
   // write your codes here
