@@ -2,7 +2,7 @@ function setup() {
   // write your codes here
   // Set up the canvas
   new Canvas(800, 400);
-  background(250); //background color
+  background(250);  // Background colour
 
   console.log("Hello.");  // Print
 
