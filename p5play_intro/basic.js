@@ -48,16 +48,17 @@ function setup() {
 
   // --- Exercise: Display odd numbers backward using while loop ---
   // write your codes here
-  let number = 19;
+  // let number = 19;
 
-  while (number >= 1) {
-    if (number % 2 == 1) {
-      console.log(number);
-    } 
-    number--;
-  }
+  // while (number >= 1) {
+  //   if (number % 2 == 1) {
+  //     console.log(number);
+  //   } 
+  //   number--;
+  // }
 
   // --- Exercise: Array operations (groceries) ---
   // write your codes here
+  
 }
 
