@@ -30,6 +30,8 @@ Background and Character Setup
 Player Movement & Gravity
 Pipes or other Obstacles
 Scrolling and Camera Position
+Sprite Collision and Game Over
+Score Tracking and Sounds
 
 For each phase: 
 • Describe what it will look like (e.g. “Pipes move from right to left”) 
