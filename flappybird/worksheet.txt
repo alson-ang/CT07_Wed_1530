@@ -32,6 +32,7 @@ For each phase:
 • Any constraints that we need to add in.
 
 1. Background and Character Setup
+Background moving slowly to the left.
 
 
 2. Player Movement & Gravity
