@@ -3,8 +3,8 @@ function setup() {
   // Set up the canvas
   new Canvas(800, 400);
   background(250);  // Background colour
-  textSize(24);
-  fill("#a83232");
+  textSize(24); 
+  fill("#fc0000");
 
 
   // console.log("Hello.");  // Print
