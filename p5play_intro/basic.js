@@ -23,19 +23,20 @@ function setup() {
 
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
-  let sum = 0;
-  let yPos = 50;
-  for (let i = 2; i <= 20; i += 2) {
-    console.log(i);
-    sum += i;
-    text(i, 400, yPos);
-    yPos += 20;
-  }
-  console.log("Sum: " + sum);
-  text("Sum: " + sum, 400, yPos);
+  // let sum = 0;
+  // let yPos = 50;
+  // for (let i = 2; i <= 20; i += 2) {
+  //   console.log(i);
+  //   sum += i;
+  //   text(i, 400, yPos);
+  //   yPos += 20;
+  // }
+  // console.log("Sum: " + sum);
+  // text("Sum: " + sum, 400, yPos);
 
   // --- Exercise: Age category classification ---
   // write your codes here
+  
 
   // --- Exercise: Display odd numbers backward using while loop ---
   // write your codes here
