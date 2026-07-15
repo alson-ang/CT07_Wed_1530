@@ -32,6 +32,8 @@ For each phase:
 • Any constraints that we need to add in.
 
 1. Background and Character Setup
+
+
 2. Player Movement & Gravity
 3. Pipes or other Obstacles
 4. Scrolling and Camera Position
