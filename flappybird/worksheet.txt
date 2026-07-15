@@ -7,6 +7,7 @@ Defeat the Ender Dragon
 
 • How do you interact/ control it?
 WASD - Movement
-Left Click - Mine / Interac
+Left Click - Mine / Attack
+Right Click - Place / Interact
 
 • What happens when you win or lose?
