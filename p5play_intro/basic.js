@@ -63,7 +63,7 @@ function setup() {
   groceries.push("orange");
   groceries.push("butter");
   groceries.shift();  // Remove first item
-  groceries.pop();  // Remove last item
-  groceries.splice(1, 1); // (num of items to remove, starting index)
+  // groceries.pop();  // Remove last item
+  // groceries.splice(1, 1); // (num of items to remove, starting index)
   console.log(groceries);
 }
