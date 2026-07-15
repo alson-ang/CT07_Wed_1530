@@ -42,7 +42,7 @@ function setup() {
     console.log("Lower Primary");
   } else if (age <= 12) {
     console.log("Upper Primary");
-  } else if (age) {
+  } else if (age ) {
     console.log("Secondary");
   }
 
