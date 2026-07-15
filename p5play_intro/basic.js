@@ -36,10 +36,9 @@ function setup() {
 
   // --- Exercise: Age category classification ---
   // write your codes here
-  let a = 1;
-  let b = "1";
+  let age = 10;
 
-  if (a === b) {
+  if (age <= 9) {
     console.log("Test");
   }
 
