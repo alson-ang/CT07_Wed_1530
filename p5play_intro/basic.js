@@ -51,6 +51,7 @@ function setup() {
   let number = 19;
 
   while (number >= 1) {
+    console.log(number);
     
   }
 
