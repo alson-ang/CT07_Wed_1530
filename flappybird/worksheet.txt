@@ -26,6 +26,7 @@ What causes game over?
 
 How is progress shown?
 
+Background & Character Setup
 
 For each phase: 
 • Describe what it will look like (e.g. “Pipes move from right to left”) 
