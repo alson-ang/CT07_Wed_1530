@@ -33,7 +33,7 @@ For each phase:
 
 1. Background and Character Setup
 Background moving slowly to the left.
-Character is 
+Character is in the middle of the screen.
 
 2. Player Movement & Gravity
 3. Pipes or other Obstacles
