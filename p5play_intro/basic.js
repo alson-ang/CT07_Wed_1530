@@ -4,6 +4,7 @@ function setup() {
   new Canvas(800, 400);
   background(250);  // Background colour
   textSize(24);
+  fill("black");
   
 
   // console.log("Hello.");  // Print
