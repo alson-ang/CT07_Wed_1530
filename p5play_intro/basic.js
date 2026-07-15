@@ -65,6 +65,6 @@ function setup() {
   groceries.shift();  // Remove first item
   // groceries.pop();  // Remove last item
   // groceries.splice(1, 1); // (starting index, num of items to remove)
-  groceries.splice(1, 2, "kaya", ); // (starting index, num of items to remove, item to insert)
+  groceries.splice(1, 2, "kaya", "abc"); // (starting index, num of items to remove, item to insert)
   console.log(groceries);
 }
