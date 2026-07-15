@@ -51,8 +51,9 @@ function setup() {
   let number = 19;
 
   while (number >= 1) {
-    if (number % 2 == 1)
-    console.log(number);
+    if (number % 2 == 1) {
+      console.log(number);
+    } 
     number--;
   }
 
