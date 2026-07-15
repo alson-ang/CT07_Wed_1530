@@ -26,6 +26,8 @@ What causes game over?
 
 How is progress shown?
 
+
 For each phase: 
-• Describe what it will look like (e.g. “Pipes move from right to left”) • The Gameplay mechanics (e.g. “spawn pipes every 2 seconds”)
- • Any constraints that we need to add in.
+• Describe what it will look like (e.g. “Pipes move from right to left”) 
+• The Gameplay mechanics (e.g. “spawn pipes every 2 seconds”)
+• Any constraints that we need to add in.
