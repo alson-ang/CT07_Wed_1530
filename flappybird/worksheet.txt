@@ -11,3 +11,4 @@ Left Click - Mine / Attack
 Right Click - Place / Interact
 
 • What happens when you win or lose?
+When you win
