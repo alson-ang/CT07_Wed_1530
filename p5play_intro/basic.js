@@ -63,5 +63,5 @@ function setup() {
   groceries.push("orange");
   groceries.push("butter");
 
-  console.log(groceries);
+  console.log(groceries[1]);
 }
