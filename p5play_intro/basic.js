@@ -28,6 +28,7 @@ function setup() {
     console.log(i);
     sum += i;
   }
+  console.log("Sum: " + sum);
 
   // --- Exercise: Age category classification ---
   // write your codes here
