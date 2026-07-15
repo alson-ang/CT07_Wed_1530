@@ -12,4 +12,4 @@ Right Click - Place / Interact
 
 • What happens when you win or lose?
 When you win the credits roll.
-When you lose 
+When you lose, you drop your items
