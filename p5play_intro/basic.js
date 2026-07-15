@@ -64,6 +64,6 @@ function setup() {
   groceries.push("butter");
   groceries.shift();  // Remove first item
   groceries.pop();  // Remove last item
-  groceries.splice(1, 1);
+  groceries.splice(1, 1); // (num of items to remove, )
   console.log(groceries);
 }
