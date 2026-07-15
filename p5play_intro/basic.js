@@ -29,6 +29,7 @@ function setup() {
     console.log(i);
     sum += i;
     text(i, 400, yPos);
+    yPos += 20;
   }
   console.log("Sum: " + sum);
 
