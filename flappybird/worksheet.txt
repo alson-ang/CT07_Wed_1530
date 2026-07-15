@@ -15,8 +15,9 @@ When you win the credits roll.
 When you lose, you drop the items in your inventory.
 
 Flappy Bird Analysis Worksheet
-What are the
-objects?
+
+What are the objects?
+
 What are the
 player’s
 actions?
