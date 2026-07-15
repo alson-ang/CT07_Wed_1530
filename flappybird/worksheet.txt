@@ -6,5 +6,7 @@ For each one, write down:
 Defeat the Ender Dragon
 
 • How do you interact/ control it?
+WASD - Movement
+
 
 • What happens when you win or lose?
