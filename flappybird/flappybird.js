@@ -26,7 +26,7 @@ function setup() {
     bird.mass = 2;  // How heavy, heavier = affected by gravity more
     bird.drag = 0.02;   // Air resistance, higher = more resistance
     bird.bounciness = 0.5;  // Higher = bouncier
-    bird.collider = "dynamic";
+    bird.collider = "dynamic";  // Default
 
     // Create floor sprite
     floor = new Sprite();
