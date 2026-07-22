@@ -20,7 +20,7 @@ function setup() {
 
     // Debug text
     fill("#fcba03");   // Text colour
-    textSize()
+    textSize(14);
 
     // Create bird sprite
     bird = new Sprite();
