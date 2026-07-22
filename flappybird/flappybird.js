@@ -21,7 +21,7 @@ function setup() {
     bird.img = birdMidImg;
     bird.width = 30;
     bird.height = 30;
-    bird.mass = 2;  // How heavy, heavier = stro
+    bird.mass = 2;  // How heavy, heavier = affected by gravity more
     bird.drag = 0.02;
     bird.bounciness = 0.5;
     bird.collider = "dynamic";
