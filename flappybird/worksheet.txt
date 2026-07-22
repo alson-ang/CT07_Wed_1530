@@ -59,4 +59,4 @@ Game ends when the bird collides.
 
 6. Score Tracking and Sounds
 
-Sc
+Score increases when the bird goes through t
