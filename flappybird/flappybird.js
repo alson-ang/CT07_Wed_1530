@@ -30,6 +30,7 @@ function setup() {
 
     // Create floor sprite
     floor = new Sprite();
+    floor.img = 
 }
 
 function draw() {
