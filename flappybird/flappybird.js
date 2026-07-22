@@ -50,5 +50,5 @@ function draw() {
         bird.vel.y = -5;   // Up velocity
     }
 
-    text("Ve")
+    text("vel.y: ")
 }
