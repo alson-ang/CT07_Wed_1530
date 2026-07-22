@@ -55,5 +55,6 @@ Background and floor is also moving and looping.
 5. Sprite Collision and Game Over
 
 
+
 6. Score Tracking and Sounds
 
