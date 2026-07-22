@@ -22,7 +22,7 @@ function setup() {
     bird.width = 30;
     bird.height = 30;
     bird.mass = 1000;
-    bird.drag = 0.02;
+    bird.drag = 10;
     bird.bounciness = 0.5;
     bird.collider = "dynamic";
 
