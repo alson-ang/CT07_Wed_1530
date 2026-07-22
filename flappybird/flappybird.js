@@ -22,11 +22,11 @@ function setup() {
     bird.width = 30;
     bird.height = 30;
     bird.mass = 1000;
-    bird.drag = 10;
+    bird.drag = 0.02;
     bird.bounciness = 0.5;
     bird.collider = "dynamic";
 
-    world.gravity.y = 100;
+    world.gravity.y = 0.125;
 }
 
 function draw() {
