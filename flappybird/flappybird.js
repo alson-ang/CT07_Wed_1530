@@ -10,19 +10,18 @@ let base;
 function preload() {
     birdMidImg = loadImage("assets/yellowbird-midflap.png");
     background = loadImage("assets/background-day.png");
-    base = loadImage("flappybird/assets/base.png");
+    base = loadImage("assets/base.png");
 }
 
 function setup() {
     new Canvas(400, 600);
-    background(250);
 
     // Create bird sprite
     bird = new Sprite();
     bird.img = birdMidImg;
     bird.width = 30;
     bird.height = 30;
-    
+
 }
 
 function draw() {
