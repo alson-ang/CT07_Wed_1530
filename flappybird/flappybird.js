@@ -28,7 +28,7 @@ function setup() {
     bird.bounciness = 0.5;  // Higher = bouncier
     bird.collider = "dynamic";
 
-    
+    // Create floor sprite
 }
 
 function draw() {
