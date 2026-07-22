@@ -42,7 +42,7 @@ Bird is always moving down because of gravity.
 Bird can fly up on click / space.
 
 3. Pipes or other Obstacles
-
+The pipes appear a
 
 4. Scrolling and Camera Position
 
