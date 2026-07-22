@@ -50,5 +50,5 @@ function draw() {
         bird.vel.y = -5;   // Up velocity
     }
 
-    text("vel.y: ")
+    text("vel.y: " + bird.vel.y.toFixed(2), 10, 20); 
 }
