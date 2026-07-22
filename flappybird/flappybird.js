@@ -3,7 +3,7 @@ let bird;
 let floor;
 
 // Image assets
-let birdMidI
+let birdMidImg
 
 function preload() {
 
