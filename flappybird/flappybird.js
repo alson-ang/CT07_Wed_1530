@@ -52,5 +52,6 @@ function draw() {
 
     // Debug info
     text("vel.y: " + bird.vel.y.toFixed(2), 10, 20);    // (text, x, y)
-    text("isMoving: " + bird.isMoving, 10, 40)
+    text("isMoving: " + bird.isMoving, 10, 40);
+    text("sleeping: " + bird.isMoving, 10, 60);
 }
