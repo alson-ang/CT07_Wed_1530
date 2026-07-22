@@ -15,6 +15,8 @@ function preload() {
 
 function setup() {
     new Canvas(400, 600);
+    
+    world.gravity.y = 10;
 
     // Create bird sprite
     bird = new Sprite();
@@ -26,7 +28,7 @@ function setup() {
     bird.bounciness = 0.5;  // Higher = bouncier
     bird.collider = "dynamic";
 
-    world.gravity.y = 10;
+    
 }
 
 function draw() {
