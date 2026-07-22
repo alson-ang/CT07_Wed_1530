@@ -29,6 +29,7 @@ function setup() {
     bird.collider = "dynamic";
 
     // Create floor sprite
+    floor = new Sprite();
 }
 
 function draw() {
