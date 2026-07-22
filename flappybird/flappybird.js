@@ -19,7 +19,7 @@ function setup() {
 
     // Create bird sprite
     bird = new Sprite();
-    
+    bird.img = birdMidImg
 }
 
 function draw() {
