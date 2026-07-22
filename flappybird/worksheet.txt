@@ -49,7 +49,8 @@ The pipes change their y position randomly.
 4. Scrolling and Camera Position
 
 Camera is slowly moving to the right.
-
+Pipes are moving to the left.
+Background
 
 5. Sprite Collision and Game Over
 
