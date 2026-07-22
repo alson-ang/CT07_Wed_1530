@@ -19,7 +19,7 @@ function setup() {
     world.gravity.y = 10;
 
     // Debug text
-    fill("");   /
+    fill("");   // Text colour
 
     // Create bird sprite
     bird = new Sprite();
