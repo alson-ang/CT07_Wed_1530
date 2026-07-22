@@ -50,7 +50,7 @@ The pipes change their y position randomly.
 
 Camera is slowly moving to the right.
 Pipes are moving to the left.
-Background and floor is also moving and repeating.
+Background and floor is also moving and looping.
 
 5. Sprite Collision and Game Over
 
