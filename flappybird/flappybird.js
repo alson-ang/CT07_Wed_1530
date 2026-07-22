@@ -21,7 +21,7 @@ function setup() {
     bird.img = birdMidImg;
     bird.width = 30;
     bird.height = 30;
-    bird.mass = 10;
+    bird.mass = ;
     bird.drag = 0.02;
     bird.bounciness = 0.5;
     bird.collider = "dynamic";
