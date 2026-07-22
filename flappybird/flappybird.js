@@ -1,4 +1,4 @@
-let 
+let bird;
 
 function preload() {
 
