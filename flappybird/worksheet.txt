@@ -43,7 +43,7 @@ Bird can fly up on click / space.
 
 3. Pipes or other Obstacles
 The pipes appear at fixed distances.
-The pipes chan
+The pipes change their y position.
 
 4. Scrolling and Camera Position
 
