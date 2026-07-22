@@ -19,6 +19,7 @@ function setup() {
 
     // Create bird sprite
     bird = new Sprite();
+    
 }
 
 function draw() {
