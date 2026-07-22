@@ -1,4 +1,8 @@
+// Game Objects
 let bird;
+let floor;
+
+
 
 function preload() {
 
