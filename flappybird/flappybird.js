@@ -22,6 +22,7 @@ function setup() {
     bird.width = 30;
     bird.height = 30;
 
+    world
 }
 
 function draw() {
