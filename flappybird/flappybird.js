@@ -1,7 +1,8 @@
-// Game Objects
+// Game objects
 let bird;
 let floor;
 
+// Image assets
 
 
 function preload() {
