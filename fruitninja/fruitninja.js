@@ -9,6 +9,7 @@ function preload() {
 function setup() {
     // Create canvas
     new Canvas(800, 600);
+    AudioWorkletNode.g
 }
 
 function draw() {
