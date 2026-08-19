@@ -1,6 +1,7 @@
 // Variables
 let background;
-let 
+let peach;
+let watermelon;
 
 function preload() {
     // Load image
