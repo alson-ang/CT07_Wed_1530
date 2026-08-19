@@ -38,7 +38,7 @@ function setup() {
     watermelon.collider = "dynamic";
 
     // Group
-    
+    peachGroup = new Grou
 }
 
 function draw() {
