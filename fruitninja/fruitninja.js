@@ -36,6 +36,9 @@ function setup() {
     watermelon.mass = 2;
     watermelon.drag = 0.02;
     watermelon.collider = "dynamic";
+
+    // Group
+    
 }
 
 function draw() {
