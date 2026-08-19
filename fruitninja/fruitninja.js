@@ -16,7 +16,7 @@ function preload() {
 function setup() {
     // Debug text
     fill("#ba0000");   // Text colour
-    textSize(14);
+    textSize(50);
 
     // Create canvas
     new Canvas(800, 600);
