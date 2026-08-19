@@ -32,7 +32,7 @@ function setup() {
     watermelon.img = watermelonWhole;
     watermelon.width = 300;
     watermelon.height = 300;
-    watermelon.scale = watermelon.width / watermelon.width;
+    watermelon.scale = watermelon.width / watermelonWhole.width;
     watermelon.mass = 2;
     watermelon.drag = 0.02;
     watermelon.collider = "dynamic";
