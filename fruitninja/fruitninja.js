@@ -15,8 +15,7 @@ function preload() {
 
 function setup() {
     // Debug text
-    fill("#ba0000");   // Text colour
-    textSize(50);
+    
 
     // Create canvas
     new Canvas(800, 600);
@@ -40,6 +39,8 @@ function setup() {
 function draw() {
     image(background, 0, 0, width, height); // (image, x, y, width, height)
 
+    fill("#ba0000");   // Text colour
+    textSize(50);
     text("frameCount: " + frameCount, 10, 40);
     spawnPeach();
 }
