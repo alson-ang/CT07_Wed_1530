@@ -30,8 +30,8 @@ function setup() {
 
     watermelon = new Sprite();
     watermelon.img = watermelonWhole;
-    watermelon.width = 500;
-    watermelon.height = 500;
+    watermelon.width = 300;
+    watermelon.height = 300;
     watermelon.scale = watermelon.width / watermelon.width;
     watermelon.mass = 2;
     watermelon.drag = 0.02;
