@@ -1,7 +1,7 @@
 // Variables
 let background;
-let peach;
-let watermelon;
+let peachWhole;
+let watermelonWhole;
 
 function preload() {
     // Load image
@@ -16,7 +16,7 @@ function setup() {
     world.gravity.y = 10;
 
     // Sprites
-    
+
 }
 
 function draw() {
