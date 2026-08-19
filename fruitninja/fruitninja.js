@@ -14,9 +14,6 @@ function preload() {
 }
 
 function setup() {
-    // Debug text
-    
-
     // Create canvas
     new Canvas(800, 600);
     world.gravity.y = 10;
@@ -39,6 +36,7 @@ function setup() {
 function draw() {
     image(background, 0, 0, width, height); // (image, x, y, width, height)
 
+    // Debug text
     fill("#ba0000");   // Text colour
     textSize(50);
     text("frameCount: " + frameCount, 10, 40);
