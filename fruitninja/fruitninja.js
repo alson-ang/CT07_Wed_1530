@@ -20,7 +20,7 @@ function setup() {
 
     // Sprites
     peach = new Sprite();
-    
+    peach.img = peachWhole;
 }
 
 function draw() {
