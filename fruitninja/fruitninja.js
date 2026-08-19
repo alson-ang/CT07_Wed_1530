@@ -21,8 +21,8 @@ function setup() {
     // Sprites
     peach = new Sprite();
     peach.img = peachWhole;
-    peach.width = 500;
-    peach.height = 500;
+    peach.width = 100;
+    peach.height = 100;
     peach.scale = peach.width / peachWhole.width;
     peach.mass = 2;  // How heavy, heavier = affected by gravity more
     peach.drag = 0.02;   // Air resistance, higher = more resistance
@@ -30,8 +30,8 @@ function setup() {
 
     watermelon = new Sprite();
     watermelon.img = watermelonWhole;
-    watermelon.width = 640;
-    watermelon.height = 640;
+    watermelon.width = 100;
+    watermelon.height = 100;
     watermelon.scale = watermelon.width / watermelonWhole.width;
     watermelon.mass = 2;
     watermelon.drag = 0.02;
