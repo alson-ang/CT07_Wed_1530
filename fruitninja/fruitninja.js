@@ -29,7 +29,7 @@ function setup() {
     peach.collider = "dynamic";  // Collidable, movable and affected by physics
 
     watermelon = new Sprite();
-    watermelon.img = peachWhole;
+    watermelon.img = watermelonWhole;
     watermelon.width = 500;
     watermelon.height = 500;
     watermelon.scale = watermelon.width / watermelon.width;
