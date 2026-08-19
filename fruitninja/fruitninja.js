@@ -41,5 +41,5 @@ function setup() {
 function draw() {
     image(background, 0, 0, width, height); // (image, x, y, width, height)
 
-    setInterval(1);
+    setInterval(1); // = wait(1);
 }
