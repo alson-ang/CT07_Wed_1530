@@ -21,11 +21,11 @@ function setup() {
     // Sprites
     peach = new Sprite();
     peach.img = peachWhole;
-    bird.width = 30;
-    bird.height = 30;
-    bird.mass = 2;  // How heavy, heavier = affected by gravity more
-    bird.drag = 0.02;   // Air resistance, higher = more resistance
-    bird.collider = "dynamic";  // Collidable, movable and affected by physics
+    peach.width = 30;
+    peach.height = 30;
+    peach.mass = 2;  // How heavy, heavier = affected by gravity more
+    peach.drag = 0.02;   // Air resistance, higher = more resistance
+    peach.collider = "dynamic";  // Collidable, movable and affected by physics
 }
 
 function draw() {
