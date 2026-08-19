@@ -39,7 +39,6 @@ function setup() {
 
     // Group
     peachGroup = new Group();
-    
 }
 
 function draw() {
