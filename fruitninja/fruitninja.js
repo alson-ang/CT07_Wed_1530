@@ -47,5 +47,5 @@ function draw() {
 
 function spawnPeach() {
     // Create peach sprite
-    let p 
+    let p = peachGroup
 }
