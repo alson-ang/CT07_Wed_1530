@@ -38,7 +38,8 @@ function setup() {
     watermelon.collider = "dynamic";
 
     // Group
-    peachGroup = new Grou
+    peachGroup = new Group();
+    
 }
 
 function draw() {
