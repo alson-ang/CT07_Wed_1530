@@ -6,4 +6,11 @@ function preload() {
 
 }
 
-function setup()
+function setup() {
+    // Create canvas
+
+}
+
+function draw(){
+    
+}
