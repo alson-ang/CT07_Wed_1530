@@ -1,5 +1,6 @@
 // Variables
 let background;
+let 
 
 function preload() {
     // Load image
