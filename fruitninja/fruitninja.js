@@ -8,7 +8,7 @@ function preload() {
 
 function setup() {
     // Create canvas
-    new.Canvas(600, 400);
+    new.Canvas(800, 600);
 }
 
 function draw() {
