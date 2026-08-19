@@ -38,6 +38,7 @@ function draw() {
 
     
     spawnPeach();
+    wait(1);
 }
 
 function spawnPeach() {
