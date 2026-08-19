@@ -21,8 +21,8 @@ function setup() {
     // Sprites
     peach = new Sprite();
     peach.img = peachWhole;
-    peach.width = 300;
-    peach.height = 300;
+    peach.width = 20;
+    peach.height = 20;
     peach.mass = 2;  // How heavy, heavier = affected by gravity more
     peach.drag = 0.02;   // Air resistance, higher = more resistance
     peach.collider = "dynamic";  // Collidable, movable and affected by physics
