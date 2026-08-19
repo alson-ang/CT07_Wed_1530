@@ -14,10 +14,14 @@ function preload() {
 }
 
 function setup() {
+    // Debug text
+    fill("#fc0303");   // Text colour
+    textSize(14);
+
     // Create canvas
     new Canvas(800, 600);
     world.gravity.y = 10;
-
+    
     // Sprites
 
     watermelon = new Sprite();
