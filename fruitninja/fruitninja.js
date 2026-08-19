@@ -14,6 +14,8 @@ function setup() {
     // Create canvas
     new Canvas(800, 600);
     world.gravity.y = 10;
+
+    // Sp
 }
 
 function draw() {
