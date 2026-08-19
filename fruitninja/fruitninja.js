@@ -3,7 +3,7 @@ let
 
 function preload() {
     // Load image
-
+    
 }
 
 function setup() {
