@@ -40,6 +40,7 @@ function draw() {
     fill("#ba0000");   // Text colour
     textSize(50);
     text("frameCount: " + frameCount, 10, 40);
+    
     spawnPeach();
 }
 
