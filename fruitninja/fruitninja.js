@@ -22,7 +22,11 @@ function preload() {
         half2: loadImage("assets/watermelonhalf.png"),
     }
 
-    // let 
+    let tomato = {
+        whole: loadImage("assets/watermelonwhole.png"),
+        half1: loadImage("assets/watermelonhalf.png"),
+        half2: loadImage("assets/watermelonhalf.png"),
+    }
     
     // store the fruit objects into an array
     fruitTypes = [peach, watermelon];
