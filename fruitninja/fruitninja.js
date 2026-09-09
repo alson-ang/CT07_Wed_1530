@@ -8,7 +8,7 @@ let fruitHalves; // new group for sliced halves
 function preload() {
     // Load image
     background = loadImage("assets/dojobackground.png");
-    // decalre the peach object
+    // declare the peach object
     let peach = {
         whole: loadImage("assets/peachwhole.png"),
         half1: loadImage("assets/peachhalf.png"),
