@@ -22,6 +22,7 @@ function preload() {
         half2: loadImage("assets/watermelonhalf.png"),
     }
 
+    // new fruit types
     let tomato = {
         whole: loadImage("assets/tomato1.png"),
         half1: loadImage("assets/tomato2.png"),
