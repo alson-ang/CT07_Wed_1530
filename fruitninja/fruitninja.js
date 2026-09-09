@@ -115,4 +115,5 @@ function splitFruit(x, y, fruitData) {
     right.vel.y = random(-5, -2);
     right.rotationSpeed = 5;
     right.life = 60; // remove after 30 frames
+    right.collider = "none";
 }
