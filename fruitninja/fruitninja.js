@@ -47,6 +47,7 @@ function draw() {
 
     // call spawnFruit function
     if (frameCount % 20 == 0) {
+        // 
         spawnFruit();
     }
 
