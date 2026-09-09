@@ -97,21 +97,21 @@ function spawnFruit() {
     fruit.friction = 0; // no friction
 }
 
-    // split a fruit into two halves and animate them
-    function splitFruit(x, y, fruitData) {
-        // create left half
-        let left = new fruitHalves.Sprite(x - 10, y, 40, 40);
-        left.img  = fruitData.half1;
-        left.vel.x = -3; // veer left
-        left.vel.y = random(-5, -2);
-        left.rotationSpeed = -5;
-        left.life = 60; // remove after 30 frames
+// split a fruit into two halves and animate them
+function splitFruit(x, y, fruitData) {
+    // create left half
+    let left = new fruitHalves.Sprite(x - 10, y, 40, 40);
+    left.img  = fruitData.half1;
+    left.vel.x = -3; // veer left
+    left.vel.y = random(-5, -2);
+    left.rotationSpeed = -5;
+    left.life = 60; // remove after 30 frames
 
-        // create right half
-        let right = new fruitHalves.Sprite(x + 10, y, 40, 40);
-        right.img = fruitData.half2;
-        right.vel.x = 3; // veer right
-        right.vel.y = random(-5, -2);
-        right.rotationSpeed = 5;
-        right.life = 60; // remove after 30 frames
-        }
+    // create right half
+    let right = new fruitHalves.Sprite(x + 10, y, 40, 40);
+    right.img = fruitData.half2;
+    right.vel.x = 3; // veer right
+    right.vel.y = random(-5, -2);
+    right.rotationSpeed = 5;
+    right.life = 60; // remove after 30 frames
+}
