@@ -45,9 +45,6 @@ function setup() {
     new Canvas(800, 600);
     world.gravity.y = 10;
     fruitGroup = new Group();
-    fruitGroup.w = 50;
-    fruitGroup.h = 50;
-  
     fruitHalves = new Group(); // group for fruit halves
 }
 
@@ -106,7 +103,7 @@ function spawnFruit() {
     let fruitData = random(fruitTypes); // pick one at random
     let randomX = random(300, 500); // random X to spawn. Rem that canvas width is 800
     let fruit = new fruitGroup.Sprite(randomX, height+20, 40); // spawn at bottom
-    
+    fruit.
     fruit.image = fruitData.whole; // load image for whole
     fruit.type = fruitData; // store reference to its type i.e. peach or watermelon
     fruit.vel.y = random(-10, -14); // shoot upward at random velocity. Adjust to try!
